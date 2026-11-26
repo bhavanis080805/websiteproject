@@ -1,5 +1,5 @@
 function changeText() {
     document.getElementById("message").innerHTML =
-        "GitHub Actions Demo";
+        "Thankyou for visiting";
 }
 // test change
